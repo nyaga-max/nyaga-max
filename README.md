@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nyaga-max
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java language
+- 🌱 I’m currently learning qt c++ 
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me 
 
